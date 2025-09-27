@@ -6,14 +6,12 @@ Clone the repository and install dependencies:
 git clone https://github.com/ketanpednekar/ccart-cyclone-impact-modeling.git
 cd ccart-cyclone-impact-modeling
 pip install -r requirements.txt
-
 ```
-```
+```python
 # Run a Cyclone Diagnostic
 from scripts.function_run_ccart_pipeline import run_ccart_pipeline
 
 run_ccart_pipeline("Amphan", 2020, "NI", ["IND", "BGD"])
-
 ```
 🤝 Collaborate
 
