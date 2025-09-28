@@ -23,4 +23,7 @@ If this resonates with your work or interests, let’s connect.
 
 Built using CLIMADA, Python, and supported by Microsoft Copilot.
 
+## License
+This project is licensed under the MIT License with attribution. See the [LICENSE](./LICENSE) file for details.
+
 © 2025 CCART GHG Consulting LLP. All rights reserved.
