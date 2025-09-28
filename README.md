@@ -12,6 +12,7 @@ pip install -r requirements.txt
 from scripts.function_run_ccart_pipeline import run_ccart_pipeline
 
 run_ccart_pipeline("Amphan", 2020, "NI", ["IND", "BGD"])
+
 ```
 🤝 Collaborate
 
