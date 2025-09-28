@@ -11,14 +11,25 @@ pip install -r requirements.txt
 # Run a Cyclone Diagnostic
 from scripts.function_run_ccart_pipeline import run_ccart_pipeline
 
+# Example: Cyclone Amphan (2020), North Indian Ocean, affecting India and Bangladesh
 run_ccart_pipeline("Amphan", 2020, "NI", ["IND", "BGD"])
-
 ```
+🌪️ About CCART
+CCART Cyclone Impact Modeling is a modular pipeline for diagnosing tropical cyclone impacts using geospatial overlays, hazard metadata, and census-informed exposure. Built for reproducibility, scenario toggling, and scientific clarity.
+
 🤝 Collaborate
 
-We’re looking to connect with climate modelers, disaster risk analysts, and geospatial scientists to expand CCART into multi-hazard diagnostics and census-enhanced modeling.
+We’re looking to connect with:
 
-If this resonates with your work or interests, let’s connect.
+Climate modelers
+
+Disaster risk analysts
+
+Geospatial scientists
+
+Scenario simulation enthusiasts
+
+If you're exploring multi-hazard diagnostics, synthetic cyclone generation, or census-enhanced modeling — we’d love to hear from you.
 
 📣 Acknowledgments
 
