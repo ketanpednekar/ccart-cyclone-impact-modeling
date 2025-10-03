@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "mora_ssp2-45_impact",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "impact_usd": 2177443.4462356493, "latitude": 22.39583333, "longitude": 91.8125 }, "geometry": { "type": "Point", "coordinates": [ 91.8125, 22.39583333 ] } },
+{ "type": "Feature", "properties": { "impact_usd": 3102073.8831516062, "latitude": 22.39583333, "longitude": 91.85416667 }, "geometry": { "type": "Point", "coordinates": [ 91.85416667, 22.39583333 ] } },
+{ "type": "Feature", "properties": { "impact_usd": 1316037.1979577083, "latitude": 22.35416667, "longitude": 91.77083333 }, "geometry": { "type": "Point", "coordinates": [ 91.77083333, 22.35416667 ] } },
+{ "type": "Feature", "properties": { "impact_usd": 4008668.7311042305, "latitude": 22.35416667, "longitude": 91.8125 }, "geometry": { "type": "Point", "coordinates": [ 91.8125, 22.35416667 ] } },
+{ "type": "Feature", "properties": { "impact_usd": 2611190.3485657056, "latitude": 22.35416667, "longitude": 91.85416667 }, "geometry": { "type": "Point", "coordinates": [ 91.85416667, 22.35416667 ] } },
+{ "type": "Feature", "properties": { "impact_usd": 1947409.7346352655, "latitude": 21.4375, "longitude": 91.97916667 }, "geometry": { "type": "Point", "coordinates": [ 91.97916667, 21.4375 ] } },
+{ "type": "Feature", "properties": { "impact_usd": 1345297.3541613678, "latitude": 21.4375, "longitude": 92.02083333 }, "geometry": { "type": "Point", "coordinates": [ 92.02083333, 21.4375 ] } }
+]
+}
